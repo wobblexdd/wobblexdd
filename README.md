@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/04/gojo-gif-3.gif" width="500" />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fm%2F8DoQFk9hEsUAAAAd%2Fminecraft-sammear.gif" width="500" />
   <h1>Wobble</h1>
   <p>Full-Stack Developer | Java & Minecraft | MERN</p>
 </div>
