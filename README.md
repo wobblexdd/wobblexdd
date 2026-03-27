@@ -70,7 +70,7 @@ Full-stack developer with a focus on building high-performance applications and 
 ---
 
 <div align="center">
-  <sub>Contact: t.me/aulgu • support: admin@morosmp.net</sub>
+  <sub>Contact: t.me/aulgu • support: support@morosmp.net</sub>
   <br />
   <sub>stay calm • keep building</sub>
 </div>
