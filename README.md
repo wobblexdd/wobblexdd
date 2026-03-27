@@ -7,7 +7,7 @@
 ---
 
 <h3 align="center">Connect & Resources</h3>
-
+  &nbsp;&nbsp;
   <a href="https://t.me/wobblemc">
     <img src="https://cdn.simpleicons.org/telegram/ffffff" height="32" title="Community" />
   </a>
