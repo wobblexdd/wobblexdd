@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/wobblexdd/wobblexdd/blob/main/assets/WobbleAura.mp4" width="500" alt="Minecraft banner" />
+  <img src="https://github.com/user-attachments/assets/85679b78-dd22-4a1c-a2f2-bc5813c2280c" width="500" alt="Minecraft banner" />
 
   <h1>Wobble</h1>
   <p><strong>Full-Stack Developer • Java • Minecraft Infrastructure • MERN</strong></p>
