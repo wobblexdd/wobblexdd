@@ -83,7 +83,7 @@ I build systems where applications, services, and tools integrate into a single 
 
 ### Applications
 - wobb-desktop — Electron desktop client for a self-hosted VPN workflow.
-- wobb-mobile — React Native Android client for a self-hosted Xray / VLESS / REALITY workflow.
+- wobb-mobile — React Native mobile client for a self-hosted VPN workflow
 
 ---
 
