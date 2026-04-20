@@ -60,7 +60,7 @@ I build systems where applications, services, and tools integrate into a single 
 
 ### Backend / Web
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,redis,postgresql" />
 </p>
 
 ### Tools / Infra
