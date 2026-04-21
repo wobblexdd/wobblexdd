@@ -18,10 +18,10 @@
 
   <p>
     <a href="https://www.twitch.tv/klousex">
-      <img src="https://img.shields.io/badge/Twitch-wobblexdd-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Twitch-klousex-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
     </a>
     <a href="https://tiktok.com/@klousex">
-      <img src="https://img.shields.io/badge/TikTok-@wobblexd-black?style=for-the-badge&logo=tiktok&logoColor=white" />
+      <img src="https://img.shields.io/badge/TikTok-@klousex-black?style=for-the-badge&logo=tiktok&logoColor=white" />
     </a>
   </p>
 
@@ -73,29 +73,29 @@ I build systems where applications, services, and tools integrate into a single 
 ## Featured Projects
 
 ### Minecraft Projects
-- WAuctionHouse — GUI auction system with pagination, search, and expiration handling  
-- WBountyHunters — dynamic bounty system with automated payouts and PvP flow  
-- WCombatLog — combat control and anti-logout system  
-- WTeams — team system with roles, invites, and persistence  
-- WRTP — high-performance random teleport system with safe location logic
+- KAuctionHouse — GUI auction system with pagination, search, and expiration handling  
+- KBountyHunters — dynamic bounty system with automated payouts and PvP flow  
+- KCombatLog — combat control and anti-logout system  
+- KTeams — team system with roles, invites, and persistence  
+- KRTP — high-performance random teleport system with safe location logic
 
 ---
 
 ### Applications
-- wobb-desktop — Electron desktop client for a self-hosted VPN workflow.
-- wobb-mobile — React Native mobile client for a self-hosted VPN workflow
+- klouse-desktop — Electron desktop client for a self-hosted VPN workflow.
+- klouse-mobile — React Native mobile client for a self-hosted VPN workflow
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wobblexdd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wobblexdd&theme=tokyonight&hide_border=true&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=klousex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klousex&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=wobblexdd&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=klousex&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -104,7 +104,7 @@ I build systems where applications, services, and tools integrate into a single 
 
 <div align="center">
   <a href="https://t.me/aulgu">Telegram</a> •
-  <a href="mailto:wobblerq@gmail.com">E-mail</a>
+  <a href="mailto:klouserq@gmail.com">E-mail</a>
 </div>
 
 <div align="center">
