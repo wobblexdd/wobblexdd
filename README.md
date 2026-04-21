@@ -3,12 +3,12 @@
   <a href="https://github.com/user-attachments/assets/85679b78-dd22-4a1c-a2f2-bc5813c2280c">
     <img
       src="https://github.com/user-attachments/assets/e24b0b2c-3d0f-4791-a7d2-ef3ca6cf7762"
-      alt="WobbleAura"
+      alt="Aura"
       width="500"
     />
   </a>
 
-  <h1>Wobble</h1>
+  <h1>KLouse</h1>
   <p><strong>Full-Stack Developer • Minecraft Development</strong></p>
 
   <p>
@@ -17,10 +17,10 @@
   </p>
 
   <p>
-    <a href="https://www.twitch.tv/wobblexd">
+    <a href="https://www.twitch.tv/klousex">
       <img src="https://img.shields.io/badge/Twitch-wobblexdd-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
     </a>
-    <a href="https://tiktok.com/@wobblexd">
+    <a href="https://tiktok.com/@klousex">
       <img src="https://img.shields.io/badge/TikTok-@wobblexd-black?style=for-the-badge&logo=tiktok&logoColor=white" />
     </a>
   </p>
