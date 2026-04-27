@@ -55,7 +55,7 @@ I build systems where applications, services, and tools integrate into a single 
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,cpp,kt,java,js,ts,python" />
+  <img src="https://skillicons.dev/icons?i=rust,cpp,kotlin,java,js,ts,python" />
 </p>
 
 ### Backend / Web
