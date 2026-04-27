@@ -55,7 +55,7 @@ I build systems where applications, services, and tools integrate into a single 
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python" />
+  <img src="https://skillicons.dev/icons?i=rust,cpp,kt,java,js,ts,python" />
 </p>
 
 ### Backend / Web
@@ -104,7 +104,7 @@ I build systems where applications, services, and tools integrate into a single 
 
 <div align="center">
   <a href="https://t.me/klousex">Telegram</a> •
-  <a href="mailto:klousex@gmail.com">E-mail</a>
+  <a href="mailto:business.klousex@gmail.com">E-mail</a>
 </div>
 
 <div align="center">
