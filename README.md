@@ -88,7 +88,6 @@ combine engineering + creator mindset inside one digital ecosystem.
 ### Media
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae&perline=4" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=davinciresolve" height="48" />
 </p>
 
 ---
