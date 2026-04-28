@@ -67,22 +67,27 @@ combine engineering + creator mindset inside one digital ecosystem.
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,rust,kotlin,cpp" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,rust,cpp" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
 </p>
 
-### Backend & Infrastructure
+### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis" />
 </p>
 
-### Tools
+### Infrastructure & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,bash,cloudflare" />
+</p>
+
+### Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,ps,pr,ae" />
 </p>
 
 ---
