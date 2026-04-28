@@ -63,32 +63,26 @@ combine engineering + creator mindset inside one digital ecosystem.
 
 ---
 
-## Tech Stack
+## Ecosystem
 
-### Languages
+### Engineering
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,rust,cpp" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,rust,cpp,react,nextjs,nodejs,express" />
 </p>
 
-### Frontend
+### Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,bash,cloudflare" />
 </p>
 
-### Backend
+### Creator Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,discord" />
 </p>
 
-### Infrastructure & Environment
+### Design & Media
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,bash,cloudflare" />
-</p>
-
-### Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-  <img src="https://skillicons.dev/icons?i=figma,ae,pr,ps,dr" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae" />
 </p>
 
 ---
