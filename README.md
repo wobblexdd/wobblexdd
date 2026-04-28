@@ -27,6 +27,10 @@
   <a href="https://discord.com/users/1425100026022985788">
     <img src="https://img.shields.io/badge/Discord-klousex-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+
+  <a href="mailto:business.klousex@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-klousex-5865F2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -133,15 +137,5 @@ Interested in:
 <div align="center">
 
 <img height="170" src="https://streak-stats.demolab.com?user=klousex&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## Contact
-
-<div align="center">
-
-<a href="mailto:business.klousex@gmail.com">Business E-Mail</a>
 
 </div>
