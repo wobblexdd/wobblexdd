@@ -47,7 +47,7 @@ Main interests:
 - Minecraft development
 - automation & tooling
 - UI/UX
-- creator/media workflow
+- creator & media
 
 Building projects around development, content and long-term online presence.
 
