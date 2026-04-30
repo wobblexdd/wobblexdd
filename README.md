@@ -39,52 +39,25 @@
 
 ## Overview
 
-Full-stack developer building practical and scalable systems.
+Full-stack developer focused on practical and scalable applications.
 
 Main interests:
+- backend/frontend systems
+- realtime applications
+- Minecraft development
+- automation & tooling
+- UI/UX
+- creator/media workflow
 
-- backend & frontend applications;
-- realtime systems;
-- Minecraft infrastructure;
-- automation & tooling;
-- self-hosted services;
-- UI/UX & visual presentation;
-- creator-oriented ecosystem building.
-
-Main idea:
-combine engineering + creator mindset inside one digital ecosystem.
+Building projects around development, content and long-term online presence.
 
 ---
 
-## Current Focus
-
-- Minecraft plugins & infrastructure
-- realtime/backend systems
-- desktop & mobile applications
-- scalable web architecture
-- automation workflows
-- production-oriented development
-
----
-
-## Media / Creator
-
-Interested in:
-
-- coding streams;
-- Minecraft streams;
-- devlogs;
-- showcases;
-- edits & short-form content;
-- engineering/media ecosystem building.
-
----
-
-## Ecosystem
+## Stack
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,rust,cpp&perline=7" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,swift,cpp&perline=7" />
 </p>
 
 ### Web
@@ -92,7 +65,7 @@ Interested in:
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind&perline=6" />
 </p>
 
-### Infrastructure
+### Backend / Environment
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,cloudflare&perline=5" />
 </p>
@@ -106,21 +79,6 @@ Interested in:
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae&perline=4" />
 </p>
-
----
-
-## Featured Projects
-
-### Minecraft
-- KAuctionHouse
-- KBountyHunters
-- KCombatLog
-- KTeams
-- KRTP
-
-### Applications
-- vpn-desktop
-- vpn-mobile
 
 ---
 
