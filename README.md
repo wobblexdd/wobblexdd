@@ -49,7 +49,7 @@ My goals are a successful career in IT, YouTube Gaming, and moving to the USA.
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,swift,cpp&perline=7" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,swift&perline=7" />
 </p>
 
 ### Web
@@ -59,7 +59,7 @@ My goals are a successful career in IT, YouTube Gaming, and moving to the USA.
 
 ### Backend / Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,cloudflare&perline=5" />
+  <img src="https://skillicons.dev/icons?i=postgres,docker,linux,redis&perline=5" />
 </p>
 
 ### Workflow
