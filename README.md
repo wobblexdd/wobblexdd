@@ -9,7 +9,7 @@
 
 KLouse
 
-### Full-Stack Developer • Minecraft Development
+### Full-Stack Developer • Minecraft Developer
 
 <p>
   <a href="https://twitch.tv/klousex">
@@ -40,7 +40,7 @@ KLouse
 ## Greetings 
 
 Hi, my name is Klouse.
-I'm a full-stack developer, building engineer, and content creator. 
+I'm a full-stack developer, engineer, and content creator. 
 My goals are a successful career in IT, YouTube Gaming, and moving to the USA.
 
 ---
@@ -57,19 +57,14 @@ My goals are a successful career in IT, YouTube Gaming, and moving to the USA.
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind&perline=6" />
 </p>
 
-### Backend / Environment
+### Workflow / Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,linux,redis&perline=5" />
-</p>
-
-### Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=4" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postgres,redis&perline=5" />
 </p>
 
 ### Media
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae&perline=4" />
+  <img src="https://skillicons.dev/icons?i=figma,dr,ps,pr,ae&perline=4" />
 </p>
 
 ---
